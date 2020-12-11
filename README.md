@@ -14,3 +14,7 @@ I have customized Windows Terminal to offer me:
 - PowerShell 64-bit for Visual Studio 2019
 
 Note that the command to open Visual Studio's Command Prompt or PowerShell Console can vary depending on the exact version of Visual Studio. The exact command line to run can be found when looking at the properties of the respective Visual Studio shortcuts found in the the Windows Start menu.
+
+Notes:
+- Scott Dorman's repo with various Visual Studio 2019 profiles and colour schemes for Windows Terminal: https://github.com/scottdorman/microsoft-terminal-settings
+- Thread about the shell icons for Windows Terminal: https://github.com/microsoft/terminal/issues/1918
