@@ -13,4 +13,4 @@ I have customized Windows Terminal to offer me:
 - PowerShell for Visual Studio 2019
 - PowerShell 64-bit for Visual Studio 2019
 
-Note that the command line to run Visual Studio's Command Prompt or PowerShell Console can vary depending on the exact version of Visual Studio. The exact command line to run can be found when looking at the properties of the respective Visual Studio shortcuts found in the the Windows Start menu.
+Note that the command to open Visual Studio's Command Prompt or PowerShell Console can vary depending on the exact version of Visual Studio. The exact command line to run can be found when looking at the properties of the respective Visual Studio shortcuts found in the the Windows Start menu.
