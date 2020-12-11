@@ -73,10 +73,14 @@
         "name": "Developer CMD for VS 2019"
       },
       {
-        "commandline": "powershell.exe -noe -c \"&{Import-Module \"\"\"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/Tools/Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell cbfa8d2a}\"",
-        //"icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+        "commandline": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe -noe -c \"&{Import-Module \"\"\"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/Tools/Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell cbfa8d2a}\"",
         "icon": "ms-appdata:///roaming/vs2019-32.png",
         "name": "Developer PowerShell for VS 2019"
+      },
+      {
+        "commandline": "powershell.exe -noe -c \"&{Import-Module \"\"\"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/Tools/Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell cbfa8d2a}\"",
+        "icon": "ms-appdata:///roaming/vs2019-32.png",
+        "name": "Developer PowerShell 64 bit for VS 2019"
       }
     ]
   },
